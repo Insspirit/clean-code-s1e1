@@ -39,10 +39,12 @@
   margin: 0;
   padding: 0px;
 }
-.tasks-list-task, h3 {
+.tasks-list-task,
+.title {
   list-style: none;
 }
-.select-task,.btn{
+.select-task,
+.btn{
   outline: none;
 }
 .btn {

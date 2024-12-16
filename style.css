@@ -17,7 +17,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .eisenhower-matrix {
     text-align: center;
   }
@@ -36,14 +36,14 @@
   display: flex;
 }
 .tasks-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .tasks-list-task, h3 {
-  list-style:none;
+  list-style: none;
 }
 .select-task,.btn{
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -136,14 +136,14 @@
 
 /* Edit Task */
 .tasks-list .tasks-list-task .task[type=text] {
-  display:none
+  display: none
 }
 
 .tasks-list .tasks-list-task.edit-mode .task[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks-list .tasks-list-task.edit-mode .task {
-  display:none;
+  display: none;
 }

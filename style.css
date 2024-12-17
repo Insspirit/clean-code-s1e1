@@ -157,5 +157,5 @@
 }
 
 .tasks-list#completed-tasks .tasks-list__item_edit .tasks-list__item__task {
-    text-decoration: none;
+  text-decoration: none;
 }
